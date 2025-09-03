@@ -1,25 +1,35 @@
 👋 Hi, I'm Akash Mamenholy
-I'm a passionate and self-taught MERN Stack Developer from India, with a love for building scalable web applications and creating seamless user experiences. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I'm a passionate and self-taught MERN Stack Developer from India, with a love for building scalable web applications and creating seamless user experiences. I enjoy turning complex problems into simple, beautiful, and intuitive designs. 🎨
 
 🚀 My Tech Stack
 Here are a few technologies I've been working with recently:
 
-Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3 
+Languages:
 
-Frameworks & Libraries: React, Next.js, Tailwind, Express.js, Framer motion, Zod 
+Frameworks & Libraries:
 
-Database & Tools: MongoDB, Git, GitHub, Thunder Client 
+Database & Tools:
 
-🌱 What I'm currently up to
-Building full-stack applications with the MERN stack.
+💻 My Recent Projects
+Here are a few projects I've worked on:
 
-Focusing on API optimization and improving application scalability.
+Mentogram - Student-Mentor Chatroom: A mentorship platform connecting students with experienced mentors, featuring chat and study material sharing.
 
-Creating beautiful, responsive UIs that work on all devices.
+Verdana - E-commerce Platform: A full-stack e-commerce site with complete authentication and payment integration.
 
-📫 How to reach me
-Email: akashmamenholy@gmail.com
+Personal Portfolio: A responsive portfolio website to showcase my skills and projects.
 
-LinkedIn: www.linkedin.com/in/akash-mamenholy-275b37353
+🌱 What I'm Currently Up To
+🛠️ Building full-stack applications with the MERN stack.
+
+⚡ Focusing on API optimization and improving application scalability.
+
+📱 Creating beautiful, responsive UIs that work on all devices.
+
+📫 How to Reach Me
+<p align="left">
+<a href="mailto:akashmamenholy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/akash-mamenholy-275b37353" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a>
+</p>
 
 Thanks for stopping by!
