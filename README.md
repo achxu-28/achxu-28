@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Akash Mamenholy
+I'm a passionate and self-taught MERN Stack Developer from India, with a love for building scalable web applications and creating seamless user experiences. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
-<!--
-**achxu-28/achxu-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 My Tech Stack
+Here are a few technologies I've been working with recently:
 
-Here are some ideas to get you started:
+Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks & Libraries: React, Next.js, Tailwind, Express.js, Framer motion, Zod 
+
+Database & Tools: MongoDB, Git, GitHub, Thunder Client 
+
+🌱 What I'm currently up to
+Building full-stack applications with the MERN stack.
+
+Focusing on API optimization and improving application scalability.
+
+Creating beautiful, responsive UIs that work on all devices.
+
+📫 How to reach me
+Email: akashmamenholy@gmail.com
+
+LinkedIn: www.linkedin.com/in/akash-mamenholy-275b37353
+
+Thanks for stopping by!
