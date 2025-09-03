@@ -3,12 +3,13 @@ I'm a passionate and self-taught MERN Stack Developer from India, with a love fo
 
 🚀 My Tech Stack
 Here are a few technologies I've been working with recently:
+<li>
+<ul> Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3 </ul> 
+<ul> Frameworks & Libraries: React, Next.js, Tailwind, Express.js, Framer motion, Zod </ul>
+<ul> Database & Tools: MongoDB, Git, GitHub, Thunder Client </ul>
 
-Languages:
+</li>
 
-Frameworks & Libraries:
-
-Database & Tools:
 
 💻 My Recent Projects
 Here are a few projects I've worked on:
