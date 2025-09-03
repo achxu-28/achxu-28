@@ -10,15 +10,20 @@ Here are a few technologies I've been working with recently:
 
 </li>
 
+</br>
 
 💻 My Recent Projects
 Here are a few projects I've worked on:
+<li>Mentogram - Student-Mentor Chatroom: A mentorship platform connecting students with experienced mentors, featuring chat and study material sharing.
+</li>
 
-Mentogram - Student-Mentor Chatroom: A mentorship platform connecting students with experienced mentors, featuring chat and study material sharing.
+<li>Verdana - E-commerce Platform: A full-stack e-commerce site with complete authentication and payment integration.
+</li>
+<li>Personal Portfolio: A responsive portfolio website to showcase my skills and projects.
+</li>
 
-Verdana - E-commerce Platform: A full-stack e-commerce site with complete authentication and payment integration.
+</br>
 
-Personal Portfolio: A responsive portfolio website to showcase my skills and projects.
 
 🌱 What I'm Currently Up To
 🛠️ Building full-stack applications with the MERN stack.
