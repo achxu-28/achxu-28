@@ -1,4 +1,4 @@
-👋 Hi, I'm Akash Mamenholy
+<h2>👋 Hi, I'm Akash Mamenholy </h2>
 I'm a passionate and self-taught MERN Stack Developer from India, with a love for building scalable web applications and creating seamless user experiences. I enjoy turning complex problems into simple, beautiful, and intuitive designs. 🎨
 
 🚀 My Tech Stack
